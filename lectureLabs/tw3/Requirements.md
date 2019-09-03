@@ -9,12 +9,12 @@
 
 
 # Users:
- Photographers
-    - To be able to upload and delete images of their own
- Editors
-    - To be able to upload and download images
-Journalists 
-     - be able to download and view images
+ -Photographers
+  - To be able to upload and delete images of their own
+ -Editors
+  - To be able to upload and download images
+ -Journalists 
+  - be able to download and view images
     
 # System Requirments:
  - Restrict user access based on the access control policy implemented
