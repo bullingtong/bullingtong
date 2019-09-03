@@ -9,11 +9,11 @@
 
 
 # Users:
- -Photographers
+ --Photographers
   - To be able to upload and delete images of their own
- -Editors
+ --Editors
   - To be able to upload and download images
- -Journalists 
+ --Journalists 
   - be able to download and view images
     
 # System Requirments:
