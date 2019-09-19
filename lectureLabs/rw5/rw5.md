@@ -1,0 +1,3 @@
+# PyTest Lab
+
+* PyTest essentially is an extension of Python that tries to catch exceptions in the program that you are trying to code that you might not have handled before. Using the assertions in PyTest, allow us to check to see if we have handled all the exceptions that we have checked for in the function. If any exceptions are not handled by the function then it will fail, letting us know that we missed an exception. Also, it can allow you to check what your functions should be producing and make sure that its not producing results that are outside of what you're expecting such as a negative number when you want positive numbers. It can also check what your functions are supposed to be returning and making sure that you're checking for all exceptions within that
